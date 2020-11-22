@@ -47,4 +47,3 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
