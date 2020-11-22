@@ -47,3 +47,5 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/alexander-lindner/alexander-lindner/issues/1) in [alexander-lindner/alexander-lindner](https://github.com/alexander-lindner/alexander-lindner)
+<!--END_SECTION:activity-->
