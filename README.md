@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<a align="center" href="https://vinetos.fr">
-  <img src="https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&h=750&w=1260" />
-</a>
--->
 # Hi there 👋 
 
 I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https://en.wikipedia.org/wiki/Department_of_Computer_Science_of_TU_Darmstadt">TU Darmstadt</a>
@@ -42,7 +37,8 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
 </p>
 
 
-![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=alexander-lindner)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexander-lindner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Alex's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-lindner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 ### :zap: Recent Activity
 
