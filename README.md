@@ -43,5 +43,5 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/alexander-lindner/cish/issues/19) in [alexander-lindner/cish](https://github.com/alexander-lindner/cish)
+1. 🗣 Commented on [#1](https://github.com/no-ex-it/no-ex.it/issues/1) in [no-ex-it/no-ex.it](https://github.com/no-ex-it/no-ex.it)
 <!--END_SECTION:activity-->
