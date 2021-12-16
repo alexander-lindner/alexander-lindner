@@ -35,7 +35,7 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
   <a href="https://alindner.org" target="_blank">
     <img alt="alindner.org" src="https://img.shields.io/badge/Website-%4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />
   </a> 
-  <a href="https://alindner.org" target="_blank">
+  <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_117888.en.jsp" target="_blank">
     <img alt="alindner.org" src="https://img.shields.io/badge/University%20page-%4FC08D.svg?&style=for-the-badge" />
   </a> 
 </p>
