@@ -47,5 +47,5 @@ I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#775](https://github.com/intel/linux-sgx/issues/775) in [intel/linux-sgx](https://github.com/intel/linux-sgx)
+1. 🗣 Commented on [#46](https://github.com/alexander-lindner/cish/issues/46) in [alexander-lindner/cish](https://github.com/alexander-lindner/cish)
 <!--END_SECTION:activity-->
