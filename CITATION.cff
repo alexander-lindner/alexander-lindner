@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Alexander Lindner
+message: >-
+  If you want to reference me, use this information to cite me.
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Lindner
+    orcid: 'https://orcid.org/0000-0002-1464-3491'
+identifiers:
+  - type: url
+    value: 'https://github.com/alexander-lindner/'
+    description: Github Profile
+url: 'https://github.com/alexander-lindner'
+abstract: An Computer Science Student
