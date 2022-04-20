@@ -14,21 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 
 
-I'm Alex, a geek programmer currently studing Computer Sicence at <a href="https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp">TU Darmstadt</a> (see <a href="https://en.wikipedia.org/wiki/Department_of_Computer_Science_of_TU_Darmstadt">Wikipedia</a>) and work there at the <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/system_security_lab_sys/index.en.jsp">System Security Lab</a>
-<p>
-  Some tags:
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-be2edd?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c#&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft+azure&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img alt="Intel SGX" src="https://img.shields.io/badge/-Intel%20SGX-000000?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
+I'm Alex, a Linux and backend programmer interested in SGX and Gramine.
+
+⚡ I’m currently working on [TeXtool](https://github.com/alexander-lindner/latex).⚡
 
 ### Links around myself
 <p>
