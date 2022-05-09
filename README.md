@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 
 
-I'm Alex, a Linux and backend programmer interested in SGX and Gramine.
+I'm Alex, a Linux and backend programmer interested in SGX.
 
 ⚡ I’m currently working on [TeXtool](https://github.com/alexander-lindner/latex).⚡
 
