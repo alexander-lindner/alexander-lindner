@@ -35,5 +35,5 @@ I'm Alex, a Linux and backend programmer interested in SGX.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#571](https://github.com/gramineproject/gramine/issues/571) in [gramineproject/gramine](https://github.com/gramineproject/gramine)
+1. 🗣 Commented on [#571](https://github.com/gramineproject/gramine/issues/571) in [gramineproject/gramine](https://github.com/gramineproject/gramine)
 <!--END_SECTION:activity-->
