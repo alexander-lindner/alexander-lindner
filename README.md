@@ -14,17 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 
 
-I'm Alex, a Linux and backend programmer interested in SGX.
+I'm Alex, a Linux and backend programmer.
 
-⚡ I’m currently working on [TeXtool](https://github.com/alexander-lindner/latex).⚡
 
 ### Links around myself
 <p>
   <a href="https://alindner.org" target="_blank">
     <img alt="alindner.org" src="https://img.shields.io/badge/Website-%4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />
-  </a> 
-  <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_117888.en.jsp" target="_blank">
-    <img alt="alindner.org" src="https://img.shields.io/badge/University%20page-%4FC08D.svg?&style=for-the-badge" />
   </a> 
 </p>
 
